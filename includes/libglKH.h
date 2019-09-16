@@ -5,6 +5,7 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 
+#include <libglKH_global_variables.h>
 #include <libglKH_global_structs.h>
 
 char	key_handler_init(GLFWwindow* window);
